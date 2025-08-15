@@ -3,7 +3,7 @@
 💻 **Full-Stack Developer**
 
 I’m passionate about crafting **interactive and meaningful digital experiences** — from building survival game modes in *Multi Theft Auto* to developing web applications with **React** and **Spring Boot**.  
-My projects are a mix of creativity, problem-solving, and a dash of curiosity that keeps me exploring new technologies.
+My projects are a mix of creativity, problem-solving, and a dash of curiosity that keeps me exploring new technologies. 
 
 ---
 
